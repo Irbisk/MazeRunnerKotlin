@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Maze_Runner_(Kotlin).Maze_Runner__Kotlin_-task-build-classes-java.main" target="15" />
+      <module name="Maze_Runner_(Kotlin).Maze_Runner__Kotlin_-task-build-classes-kotlin.main" target="15" />
+      <module name="Maze_Runner_(Kotlin).Maze_Runner__Kotlin_-task-build-generated-sources-annotationProcessor-java.main" target="15" />
+      <module name="Maze_Runner_(Kotlin).Maze_Runner__Kotlin_-task-build-generated-sources-headers-java.main" target="15" />
+      <module name="Maze_Runner_(Kotlin).Maze_Runner__Kotlin_-task-build-reports-tests.main" target="15" />
+      <module name="Maze_Runner_(Kotlin).Maze_Runner__Kotlin_-task-build-test-results.main" target="15" />
+      <module name="Maze_Runner_(Kotlin).Maze_Runner__Kotlin_-task-build-tmp.main" target="15" />
+      <module name="Maze_Runner_(Kotlin).Maze_Runner__Kotlin_-task.main" target="15" />
+      <module name="Maze_Runner_(Kotlin).util.main" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
